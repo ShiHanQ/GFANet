@@ -1,8 +1,9 @@
 # GFANet: Gated Fusion Attention Network for Skin Lesion Segmentation
 
 ## Environment Configuration
-Pytorch version == 1.9.1+cu111  
-Python == 3.8
+* Ubuntu 18.04.6 LTS
+* Pytorch version == 1.9.1+cu111
+* Python == 3.8
 
 ## Datasets and trained models
 1. The dataset can be downloaded from the official link: https://challenge.isic-archive.com/data/#2018  
