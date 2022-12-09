@@ -1,5 +1,8 @@
 # GFANet: Gated Fusion Attention Network for Skin Lesion Segmentation
 
+![](Fig. 1. Structure of GFANet.)
+[![](https://github.com/ShiHanQ/GFANet/blob/main/images/Fig.%201.tif "Fig. 1. Structure of GFANet.")]
+
 ## Environment Configuration
 * Ubuntu 18.04.6 LTS
 * Pytorch version == 1.9.1+cu111
