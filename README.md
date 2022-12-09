@@ -1,6 +1,6 @@
 # GFANet: Gated Fusion Attention Network for Skin Lesion Segmentation
 
-![](https://github.com/ShiHanQ/GFANet/blob/main/images/Fig.%201.tif "Fig. 1. Structure of GFANet.")
+![image](https://github.com/ShiHanQ/GFANet/blob/main/images/Fig.%201.tif "Fig. 1. Structure of GFANet.")
 
 ## Environment Configuration
 * Ubuntu 18.04.6 LTS
